@@ -1,5 +1,13 @@
 # main links links
 main:
+  - title: "Postdoc Appplication Analysis"
+    subfolderitems:
+        -page: "Description"
+         url: "/postdoc_description"
+        
+        -page: "Results"
+         url: "/postdoc_results"
+         
   - title: "Resume"
     url: /files/sabellap_resume.pdf
 
