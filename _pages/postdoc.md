@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+1. [The Data](#data)
 
 ## Context 
 High-energy theorists all apply to postdoctoral positions at the same time of the year. Applications are submitted before the holiday season (deadlines between November 15 and December 15). While there are on the order of 80-100 openings, these are mostly centralized in two systems: the [European Joint Application](https://itf.fys.kuleuven.be/postdoc-application/) and [AcademicJobsOnline](https://academicjobsonline.org/ajo). Therefore, the effort required of applicants to submit a large number of applications is marginal. This results in a selection process that should be heavily dependant on measurable features based on the publication record of the applicants.
@@ -19,7 +20,7 @@ A fraction of applicants choose to publicize offers they have received on an uno
 
 What does the profile of a successful applicant look like? Prospective applicants would like to know how they compare to successful applicants. 
 
-## The Data
+## The Data <a name="data"></a>
 
 I used raw data from three different (but linked) sources. First is the rumor mill itself:
 <br/><img src='/images/rumormill.jpg'>
@@ -30,7 +31,7 @@ While it’s possible to use Python to download the online spreadsheets, it turn
 
 The “Inspire Link” text serves as a convenient unique identifier for applicants. It can be used to access the publication record of applicants on the InspireHEP database:
 
-<br/><img src="https://psabellagarnier.github.io/inspire/">
+<br/><img src="/images/inspire.png/">
 
 This data can be accessed through [API](http://old.inspirehep.net/info/hep/api) calls from Python. The response comes in the form of JSON objects, each object corresponding to one publication. For example, the first object corresponding to the image above is:
 <pre>
