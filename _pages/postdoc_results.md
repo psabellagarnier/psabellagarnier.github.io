@@ -1,9 +1,8 @@
 ---
-layout: archive
-title: "Postdoc Application Analysis: Results"
 permalink: /postdoc_results/
+title: "Postdoc Application Analysis: Results"
+layout: archive
 author_profile: true
-redirect_from:
 ---
 
 {% include base_path %}
