@@ -26,8 +26,9 @@ There are two theories that together explain all of physics: quantum mechanics a
    
    
  
-<br/><img src='/images/mi.png' width='300' height='100%'>
-    The red points show a quantity called “mutual information” calculated on a “fuzzy sphere”, the quantum version of an ordinary sphere. They were calculated by diagonalizing a particular 300x300 matrix with numpy. The blue lines correspond to theoretical predictions for ordinary spheres, showing agreement between ordinary geometry and quantum mechanics. Plot done with matplotlib. source: [https://arxiv.org/abs/1409.7069]
+<br/><img src='/images/mi.png' width='350' height='100%'>
+
+The red points show a quantity called “mutual information” calculated on a “fuzzy sphere”, the quantum version of an ordinary sphere. They were calculated by diagonalizing a particular 300x300 matrix with numpy. The blue lines correspond to theoretical predictions for ordinary spheres, showing agreement between ordinary geometry and quantum mechanics. Plot done with matplotlib. source: [https://arxiv.org/abs/1409.7069]
     
 <br/><img src='/images/quench.png'>
  The points show entanglement entropy, a measure of “quantum correlation”, between regions of different areas on an ordinary and a “fuzzy” sphere (the quantum version of an ordinary sphere) after a large injection of energy. The red line is obtained by linear regression and shows that both kinds of spheres can be modelled in the same way. Calculations done with numpy (diagonalizing large matrices), plot with matplotlib. Source: [https://arxiv.org/abs/1705.01969]
