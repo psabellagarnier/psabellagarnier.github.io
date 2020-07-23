@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Philippe Sabella-Garnier (sb)"
-  avatar           : #"profile.png"
+  name             : "PSG"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
