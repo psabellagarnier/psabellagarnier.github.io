@@ -15,3 +15,5 @@ The following applet displays histograms of various statistics about successful 
 * The legend is interactive and can be used to filter the type of applicant: postdoc, PhD student or both (note that these were determined by training a model, therefore there is some inherent uncertainty associated with the classification).
 
 <iframe src="https://psabellagarnier.github.io/heprumors/" title="Postdoc Application Profiles" width="100%" height="700" style="border:none;"></iframe>
+
+ <embed src="/files/sabellap_resume.pdf" width="600px" height="500px" />

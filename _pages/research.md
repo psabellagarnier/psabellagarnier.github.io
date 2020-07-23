@@ -19,9 +19,10 @@ There are two theories that together explain all of physics: quantum mechanics a
 * My [publications](https://inspirehep.net/authors/1486945) 
 
 ## Some figures from my papers:
-
+<p align="center">
 <br/><img src='/images/oth.png' width='500' height='100%'>
-    The heatmap shows the density of elements of a particular 2<sup>13</sup>x2<sup>13</sup> matrix obtained from numerical simulation. The blue points at the top are obtained from a running average, and the red line is a theoretical prediction. The inset displays the difference between the prediction and the measured average: the study of these statistical fluctuations around the horizontal line was used to establish a hidden similarity between ordered and chaotic quantum systems. Simulation done in C++, analysis of data done with numpy, plot with matplotlib. 
+</p>    
+The heatmap shows the density of elements of a particular 2<sup>13</sup>x2<sup>13</sup> matrix obtained from numerical simulation. The blue points at the top are obtained from a running average, and the red line is a theoretical prediction. The inset displays the difference between the prediction and the measured average: the study of these statistical fluctuations around the horizontal line was used to establish a hidden similarity between ordered and chaotic quantum systems. Simulation done in C++, analysis of data done with numpy, plot with matplotlib. 
 [Source](https://arxiv.org/abs/1911.06292)
     
 ----
