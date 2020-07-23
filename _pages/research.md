@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "My Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+---
+
+{% include base_path %}
+
 There are two theories that together explain all of physics: quantum mechanics and general relativity. Quantum mechanics explains physics at microscopic scales (atoms and molecules) while general relativity deals with physics at large scales (planets and galaxies). These two theories are incompatible. My physics research focused on describing aspects of general relativity using quantum mechanics. More specifically, how applying the theory of quantum mechanics to a very large number of objects can lead to effects that resemble gravity. Some examples:
 * The statistical properties of molecules in a gas or atoms in a magnet can be used to describe the structure of black holes.
 * The electrical properties of certain materials model the growth of the universe after the big bang.
