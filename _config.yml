@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Title placeholder"
+title                    : "Philippe Sabella-Garnier"
 title_separator          : "-"
 name                     : &name "Philippe Sabella-Garnier"
 description              : &description "Data Scientist, Physicist"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "PSG"
+  name             : "Philippe Sabella-Garnier"
   avatar           : "profile.png"
   bio              : "Data Scientist, Physicist, Problem Solver"
   location         : "Vancouver, BC"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "philippe.sg@gmail.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "p-sabella-garnier"
-  orcid            : 
+  orcid            : "0000-0003-0372-8059"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
