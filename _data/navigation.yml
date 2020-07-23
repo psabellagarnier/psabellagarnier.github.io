@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/    
-   
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /files/sabellap_resume.pdf
 
   - tilte: "My Research"
-    url: /research/
+    url: /research
