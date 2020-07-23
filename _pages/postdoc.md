@@ -7,16 +7,23 @@ redirect_from:
 ---
 
 {% include base_path %}
-1. [The Data](#data)
+This page explains the project. Actual results can be found [here](/postdoc_results/).
 
-## Context 
+## Contents
+1. [Context](#context)
+2. [The Problem](#problem)
+3. [The Data](#data)
+4. [The Features](#features)
+    * [Applicants' Current Positions](#current)
+
+## Context <a name="context"></a>
 High-energy theorists all apply to postdoctoral positions at the same time of the year. Applications are submitted before the holiday season (deadlines between November 15 and December 15). While there are on the order of 80-100 openings, these are mostly centralized in two systems: the [European Joint Application](https://itf.fys.kuleuven.be/postdoc-application/) and [AcademicJobsOnline](https://academicjobsonline.org/ajo). Therefore, the effort required of applicants to submit a large number of applications is marginal. This results in a selection process that should be heavily dependant on measurable features based on the publication record of the applicants.
 
 Admission decisions are usually issued between mid-December and February. An agreement between departments ensures that no position must be accepted or declined before January 7, leading to two rounds of offers usually being sent.
 
 A fraction of applicants choose to publicize offers they have received on an unofficial “[Rumor Mill](https://sites.google.com/site/postdocrumor/)“. The information on that website includes the identity of the offer recipient, the date of the rumor submission and the status of the offer. Information is available since the 2011 application year.
 
-## The Problem
+## The Problem <a name="problem"></a>
 
 What does the profile of a successful applicant look like? Prospective applicants would like to know how they compare to successful applicants. 
 
@@ -80,7 +87,7 @@ where citation.recid = ID
     and paper.creation_date &gt; DATE
 </pre>
 
-## The features
+## The features <a name="features"></a>
 
 There are a number of potentially interesting features that describe the applicants which we can roughly split into two categories:
 
@@ -92,7 +99,7 @@ There are a number of potentially interesting features that describe the applica
     * Citations per paper (median or mean)
     * Maximum number of citations of a paper
 
-### Applicant’s current position
+### Applicants' current positions <a name="current"></a>
 
 One more important feature is not immediately accessible to us: whether the applicant is a graduate student or a postdoc. This will affect the other features, especially the extensive ones. We know from experience that postdocs and grad student are not judged according to the same criteria. Therefore, it would be very helpful to be able to create separate profiles for these two categories of applicants. Most people report their current position on their Inspire profile, but this is not accessible through the API. Furthermore, it is sometimes out of date or missing. It is usually fairly obvious from a person’s entire profile whether they are a graduate student or postdoc.
 
