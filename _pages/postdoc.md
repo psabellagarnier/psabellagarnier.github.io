@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Postdoc Application Analysis"
-permalink: /postdoc
+permalink: /postdoc/
 author_profile: true
 redirect_from:
 ---
@@ -14,5 +14,14 @@ High-energy theorists all apply to postdoctoral positions at the same time of th
 Admission decisions are usually issued between mid-December and February. An agreement between departments ensures that no position must be accepted or declined before January 7, leading to two rounds of offers usually being sent.
 
 A fraction of applicants choose to publicize offers they have received on an unofficial “[Rumor Mill](https://sites.google.com/site/postdocrumor/)“. The information on that website includes the identity of the offer recipient, the date of the rumor submission and the status of the offer. Information is available since the 2011 application year.
+
+## The Problem
+
+What does the profile of a successful applicant look like? Prospective applicants would like to know how they compare to successful applicants. 
+
+## The Data
+
+I used raw data from three different (but linked) sources. First is the rumor mill itself:
+<br/><img src='/images/rumormill.jpg'>
 
 <iframe src="https://psabellagarnier.github.io/heprumors/"></iframe>
