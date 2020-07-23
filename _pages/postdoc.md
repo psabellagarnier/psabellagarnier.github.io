@@ -38,7 +38,7 @@ While it’s possible to use Python to download the online spreadsheets, it turn
 
 The “Inspire Link” text serves as a convenient unique identifier for applicants. It can be used to access the publication record of applicants on the InspireHEP database:
 
-<br/><img src="/images/inspire.png/">
+<br/><img src="/images/inspire.png">
 
 This data can be accessed through [API](http://old.inspirehep.net/info/hep/api) calls from Python. The response comes in the form of JSON objects, each object corresponding to one publication. For example, the first object corresponding to the image above is:
 <pre>
