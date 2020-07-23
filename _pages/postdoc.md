@@ -24,13 +24,13 @@ What does the profile of a successful applicant look like? Prospective applicant
 I used raw data from three different (but linked) sources. First is the rumor mill itself:
 <br/><img src='/images/rumormill.jpg'>
 
-<iframe src="https://psabellagarnier.github.io/heprumors/"></iframe>
+<!-- <iframe src="https://psabellagarnier.github.io/heprumors/"></iframe> -->
 
 While it’s possible to use Python to download the online spreadsheets, it turns out to be easier to simply copy-paste them into Excel and do a simple search-and-replace to eliminate the HTML formatting on the URLs before exporting as a CSV file. I used data from 2017-2020. This corresponds to 969 individual applicants.
 
 The “Inspire Link” text serves as a convenient unique identifier for applicants. It can be used to access the publication record of applicants on the InspireHEP database:
 
-<iframe src="https://psabellagarnier.github.io/inspire/"></iframe>
+<br/><img src="https://psabellagarnier.github.io/inspire/">
 
 This data can be accessed through [API](http://old.inspirehep.net/info/hep/api) calls from Python. The response comes in the form of JSON objects, each object corresponding to one publication. For example, the first object corresponding to the image above is:
 <pre>
