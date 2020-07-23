@@ -4,7 +4,7 @@ main:
     url: /postdoc/
     
   - title: "Resume"
-    url: /files/sabellap_resume.pdf
+    url: /resume/
 
   - title: "My Research"
     url: /research

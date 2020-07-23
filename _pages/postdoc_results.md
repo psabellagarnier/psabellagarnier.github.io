@@ -16,4 +16,3 @@ The following applet displays histograms of various statistics about successful 
 
 <iframe src="https://psabellagarnier.github.io/heprumors/" title="Postdoc Application Profiles" width="100%" height="700" style="border:none;"></iframe>
 
- <embed src="/files/sabellap_resume.pdf" width="600px" height="500px" />
