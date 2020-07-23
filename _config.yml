@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "PSG"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Data Scientist, Physicist, Problem Solver"
+  location         : "Vancouver, BC"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/p-sabella-garnier"
+  linkedin         : "p-sabella-garnier"
   orcid            : 
   pinterest        :
   soundcloud       :
